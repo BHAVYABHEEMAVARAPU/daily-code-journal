@@ -1,37 +1,37 @@
-# 📈 Daily Coding Progress
+# DSA Progress Tracker – November 2026
 
-Tracking my daily problem-solving journey.
+## Daily Progress
 
-## November 2026
-
-| Day | Date | Problem | Topic | Difficulty | Status |
-|---|---|---|---|---|---|
-| 1 | 15 Nov 2026 | Contains Duplicate | Arrays & Hashing | Easy | Completed |
-| 1 | 15 Nov 2026 | Valid Anagram | Arrays & Hashing | Easy | Completed |
+| Day | Problem | Topic | Difficulty | Status |
+|---|---|---|---|---|
+| Day 1 | Contains Duplicate | Arrays & Hashing | Easy | Completed |
+| Day 1 | Valid Anagram | Arrays & Hashing | Easy | Completed |
+| Day 2 | Two Sum | Arrays & Hashing | Easy | Completed |
 
 ## Statistics
 
-- Total problems solved: 2
-- Total days practiced: 1
-- Topics covered: 1
-- Programming language: Python
+- **Total Problems Solved:** 3
+- **Easy:** 3
+- **Medium:** 0
+- **Hard:** 0
+- **Topics Covered:** Arrays & Hashing
 
-## Concepts Learned
+## Key Learnings
 
-- Hash Sets
-- Hash Maps
-- Dictionary frequency counting
-- Membership checking
-- Dictionary comparison
+### Day 1
+- Using sets to identify duplicates.
+- Using dictionaries to count character frequencies.
+- Comparing frequency dictionaries to validate anagrams.
 
-## Daily Commitment
+### Day 2
+- Solving Two Sum using nested loops.
+- Understanding array indices and pair comparisons.
+- Avoiding duplicate pair checks using `j = i + 1`.
+- Brute-force time complexity: O(n²).
+- Auxiliary space complexity: O(1).
 
-- [x] Day 1 – Two problems completed
-- [ ] Day 2
-- [ ] Day 3
-- [ ] Day 4
-- [ ] Day 5
+## Next Goal
 
----
-
-**Consistency over perfection. Keep coding! 🚀**
+- Continue Arrays & Hashing.
+- Learn the optimized Two Sum solution using a hash map.
+- Practice explaining time and space complexity during interviews.
