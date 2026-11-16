@@ -8,12 +8,13 @@
 | Day 1 | Valid Anagram | Arrays & Hashing | Easy | Completed |
 | Day 2 | Two Sum | Arrays & Hashing | Easy | Completed |
 | Day 2 | Group Anagrams | Arrays & Hashing | Medium | Completed |
+| Day 2 | Top K Frequent Elements | Arrays & Hashing | Medium | Completed |
 
 ## Statistics
 
-- **Total Problems Solved:** 4
+- **Total Problems Solved:** 5
 - **Easy:** 3
-- **Medium:** 1
+- **Medium:** 2
 - **Hard:** 0
 - **Topics Covered:** Arrays & Hashing
 
@@ -35,14 +36,20 @@
 - Creating nested lists dynamically.
 - Understanding `dict.values()` to retrieve grouped results.
 - Sorting-based Group Anagrams time complexity: O(n × k log k).
+- Using dictionaries for frequency counting.
+- Sorting dictionary keys based on their values.
+- Understanding `key=freq.get` and `reverse=True`.
+- Using list slicing to retrieve the top K elements.
+- Top K Frequent Elements time complexity: O(n + m log m).
 
 ## Next Goal
 
 - Continue practising Arrays & Hashing.
 - Learn the optimized Two Sum solution using a hash map.
 - Explore frequency-counting approaches for Group Anagrams.
+- Explore bucket sort for Top K Frequent Elements.
 - Practice explaining time and space complexity during interviews.
 
 ---
 
-**Current Progress: 4 / 150 Problems**
+**Current Progress: 5 / 150 Problems**
