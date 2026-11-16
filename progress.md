@@ -7,12 +7,13 @@
 | Day 1 | Contains Duplicate | Arrays & Hashing | Easy | Completed |
 | Day 1 | Valid Anagram | Arrays & Hashing | Easy | Completed |
 | Day 2 | Two Sum | Arrays & Hashing | Easy | Completed |
+| Day 2 | Group Anagrams | Arrays & Hashing | Medium | Completed |
 
 ## Statistics
 
-- **Total Problems Solved:** 3
+- **Total Problems Solved:** 4
 - **Easy:** 3
-- **Medium:** 0
+- **Medium:** 1
 - **Hard:** 0
 - **Topics Covered:** Arrays & Hashing
 
@@ -29,9 +30,19 @@
 - Avoiding duplicate pair checks using `j = i + 1`.
 - Brute-force time complexity: O(n²).
 - Auxiliary space complexity: O(1).
+- Using `sorted()` and `join()` to generate common keys for anagrams.
+- Using dictionaries to group anagrams.
+- Creating nested lists dynamically.
+- Understanding `dict.values()` to retrieve grouped results.
+- Sorting-based Group Anagrams time complexity: O(n × k log k).
 
 ## Next Goal
 
-- Continue Arrays & Hashing.
+- Continue practising Arrays & Hashing.
 - Learn the optimized Two Sum solution using a hash map.
+- Explore frequency-counting approaches for Group Anagrams.
 - Practice explaining time and space complexity during interviews.
+
+---
+
+**Current Progress: 4 / 150 Problems**
