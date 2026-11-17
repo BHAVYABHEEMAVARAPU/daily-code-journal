@@ -9,12 +9,13 @@
 | Day 2 | Two Sum | Arrays & Hashing | Easy | Completed |
 | Day 2 | Group Anagrams | Arrays & Hashing | Medium | Completed |
 | Day 2 | Top K Frequent Elements | Arrays & Hashing | Medium | Completed |
+| Day 3 | Product of Array Except Self | Arrays & Hashing | Medium | Initial Approach Completed |
 
 ## Statistics
 
-- **Total Problems Solved:** 5
+- **Total Problems Practised:** 6
 - **Easy:** 3
-- **Medium:** 2
+- **Medium:** 3
 - **Hard:** 0
 - **Topics Covered:** Arrays & Hashing
 
@@ -42,14 +43,25 @@
 - Using list slicing to retrieve the top K elements.
 - Top K Frequent Elements time complexity: O(n + m log m).
 
+### Day 3
+- Using `math.prod()` to calculate the product of array elements.
+- Using `count()` to identify the number of zeros.
+- Handling arrays with no zeros, exactly one zero, and multiple zeros.
+- Using generator expressions to calculate the product of non-zero elements.
+- Understanding how zero affects multiplication.
+- Implementing conditional logic for different edge cases.
+- Learning that the original problem prohibits division.
+- Next step: Solve using prefix and suffix products.
+
 ## Next Goal
 
 - Continue practising Arrays & Hashing.
 - Learn the optimized Two Sum solution using a hash map.
 - Explore frequency-counting approaches for Group Anagrams.
 - Explore bucket sort for Top K Frequent Elements.
+- Solve Product of Array Except Self without division.
 - Practice explaining time and space complexity during interviews.
 
 ---
 
-**Current Progress: 5 / 150 Problems**
+**Current Progress: 6 / 150 Problems**
