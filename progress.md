@@ -10,12 +10,13 @@
 | Day 2 | Group Anagrams | Arrays & Hashing | Medium | Completed |
 | Day 2 | Top K Frequent Elements | Arrays & Hashing | Medium | Completed |
 | Day 3 | Product of Array Except Self | Arrays & Hashing | Medium | Initial Approach Completed |
+| Day 4 | Longest Consecutive Sequence | Arrays & Hashing | Medium | Completed |
 
 ## Statistics
 
-- **Total Problems Practised:** 6
+- **Total Problems Practised:** 7
 - **Easy:** 3
-- **Medium:** 3
+- **Medium:** 4
 - **Hard:** 0
 - **Topics Covered:** Arrays & Hashing
 
@@ -53,6 +54,16 @@
 - Learning that the original problem prohibits division.
 - Next step: Solve using prefix and suffix products.
 
+### Day 4 – Longest Consecutive Sequence
+- Using sets to remove duplicate elements.
+- Understanding average O(1) membership checking.
+- Identifying the starting point of a consecutive sequence using `num - 1 not in l`.
+- Traversing consecutive numbers using a `while` loop.
+- Counting the length of consecutive sequences.
+- Using `max()` to maintain the longest sequence.
+- Avoiding unnecessary repeated traversal.
+- Achieving O(n) average time complexity using a set.
+
 ## Next Goal
 
 - Continue practising Arrays & Hashing.
@@ -64,4 +75,4 @@
 
 ---
 
-**Current Progress: 6 / 150 Problems**
+**Current Progress: 7 / 150 Problems**
