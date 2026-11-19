@@ -11,12 +11,13 @@
 | Day 2 | Top K Frequent Elements | Arrays & Hashing | Medium | Completed |
 | Day 3 | Product of Array Except Self | Arrays & Hashing | Medium | Initial Approach Completed |
 | Day 4 | Longest Consecutive Sequence | Arrays & Hashing | Medium | Completed |
+| Day 5 | Encode and Decode Strings | Arrays & Hashing | Medium | Completed |
 
 ## Statistics
 
-- **Total Problems Practised:** 7
+- **Total Problems Practised:** 8
 - **Easy:** 3
-- **Medium:** 4
+- **Medium:** 5
 - **Hard:** 0
 - **Topics Covered:** Arrays & Hashing
 
@@ -64,6 +65,18 @@
 - Avoiding unnecessary repeated traversal.
 - Achieving O(n) average time complexity using a set.
 
+### Day 5 – Encode and Decode Strings
+- Designing a custom string encoding format.
+- Using length-prefix encoding to preserve string boundaries.
+- Using `len()` and string concatenation.
+- Understanding delimiters and their role in encoding.
+- Using two pointers to traverse an encoded string.
+- Finding delimiters using a `while` loop.
+- Extracting substrings using string slicing.
+- Converting string representations of numbers using `int()`.
+- Reconstructing the original list of strings.
+- Handling words containing delimiter characters using length information.
+
 ## Next Goal
 
 - Continue practising Arrays & Hashing.
@@ -72,7 +85,8 @@
 - Explore bucket sort for Top K Frequent Elements.
 - Solve Product of Array Except Self without division.
 - Practice explaining time and space complexity during interviews.
+- Continue with the remaining NeetCode 150 Arrays & Hashing problems.
 
 ---
 
-**Current Progress: 7 / 150 Problems**
+**Current Progress: 8 / 150 Problems**
