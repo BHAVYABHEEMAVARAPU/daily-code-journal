@@ -12,14 +12,18 @@
 | Day 3 | Product of Array Except Self | Arrays & Hashing | Medium | Initial Approach Completed |
 | Day 4 | Longest Consecutive Sequence | Arrays & Hashing | Medium | Completed |
 | Day 5 | Encode and Decode Strings | Arrays & Hashing | Medium | Completed |
+| Day 6 | Valid Palindrome | Two Pointers | Easy | Completed |
+| Day 6 | Reverse Integer | Math & Geometry | Medium | Completed |
+| Day 6 | Missing Number | Arrays & Hashing | Easy | Completed |
+| Day 6 | Find X in Sorted Array | Searching | Easy | Completed |
 
 ## Statistics
 
-- **Total Problems Practised:** 8
-- **Easy:** 3
-- **Medium:** 5
+- **Total Problems Practised:** 12
+- **Easy:** 6
+- **Medium:** 6
 - **Hard:** 0
-- **Topics Covered:** Arrays & Hashing
+- **Topics Covered:** Arrays & Hashing, Two Pointers, Math & Geometry, Searching
 
 ## Key Learnings
 
@@ -77,6 +81,25 @@
 - Reconstructing the original list of strings.
 - Handling words containing delimiter characters using length information.
 
+### Day 6
+- Cleaning strings using `isalnum()` and `lower()`.
+- Using `"".join()` with generator expressions.
+- Reversing strings using slicing `[::-1]`.
+- Checking palindromes through string comparison.
+- Extracting digits using the modulo operator `%`.
+- Removing digits using integer division `//`.
+- Reversing integers mathematically.
+- Handling negative numbers using `abs()` and sign restoration.
+- Understanding signed 32-bit integer limits and overflow handling.
+- Using mathematical formulas to find missing numbers.
+- Calculating expected and actual array sums.
+- Finding missing values using the difference between two sums.
+- Implementing linear search using array indices.
+- Returning the index of a matching element.
+- Returning `-1` when the target is not found.
+- Understanding the difference between linear search O(n) and binary search O(log n).
+- Recognizing how sorted arrays can help optimize searching.
+
 ## Next Goal
 
 - Continue practising Arrays & Hashing.
@@ -85,8 +108,9 @@
 - Explore bucket sort for Top K Frequent Elements.
 - Solve Product of Array Except Self without division.
 - Practice explaining time and space complexity during interviews.
-- Continue with the remaining NeetCode 150 Arrays & Hashing problems.
+- Learn Binary Search and optimize Find X in Sorted Array.
+- Continue with the remaining NeetCode 150 problems.
 
 ---
 
-**Current Progress: 8 / 150 Problems**
+**Current Progress: 12 / 150 Problems**
